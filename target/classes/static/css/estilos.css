@@ -1,0 +1,95 @@
+/* Division pagina */
+.image-container {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+}
+
+.background-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+.overlay-text:hover {
+    color: blue;
+    transition: 1s;
+}
+
+#KOInavbar:hover{
+    color: blue;
+}
+
+#Productos-Titulo{
+    text-align: center;
+}
+
+a{
+    color: #ffffff
+}
+
+#accordionPanelsStayOpenExample{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%
+}
+
+.textoInicioSesion{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
+
+.iFrameEjemplo{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-align: center;
+}
+
+.SocialMedia{
+    text-align: center;
+
+}
+
+.SupportTicket{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    text-align: center;
+}
+
+.titleTicket{
+    text-align: center;
+}
+
+#carouselExample{
+    object-fit: cover;
+}
